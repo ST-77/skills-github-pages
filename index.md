@@ -1,5 +1,5 @@
 ---
-title: First Blog.
+title: First Blog
 
 # Things I have mastered 
 
