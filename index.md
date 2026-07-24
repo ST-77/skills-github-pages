@@ -1,5 +1,6 @@
 ---
 title: First Blog
+---
 
 # Things I have mastered 
 
@@ -18,4 +19,3 @@ Useful for:
 3. etc.
 
    
----
